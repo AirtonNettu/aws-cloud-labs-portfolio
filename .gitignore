@@ -3,7 +3,7 @@
 Thumbs.db
 .vscode/
 .idea/
-
+*.code-workspace
 # Arquivos temporários
 *.tmp
 *.log
