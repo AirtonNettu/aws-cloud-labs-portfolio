@@ -12,6 +12,7 @@ O repositório reúne quatro laboratórios relacionados a identidade e acesso, s
 | [Network Firewall com regras Suricata](labs/02-network-firewall-suricata/) | VPC, AWS Network Firewall, Systems Manager     | URLs maliciosas bloqueadas por regras stateful compatíveis com Suricata |
 | [Monitoramento de CPU](labs/03-cloudwatch-sns-monitoring/)                 | EC2, CloudWatch, SNS, Systems Manager          | Alarme disparado e notificação entregue por e-mail                      |
 | [Otimização de custos na nuvem](labs/04-cloud-cost-optimization/)          | AWS Pricing Calculator, EC2, EBS, Auto Scaling | Estimativa otimizada por rightsizing, com redução aproximada de 62,4%   |
+| [Amazon EFS — Sistema de arquivos compartilhado e escalável](labs/05-cloud-efs/) | AWS EFS - Amazon Elastic File System
 
 ## Visão de arquitetura
 
